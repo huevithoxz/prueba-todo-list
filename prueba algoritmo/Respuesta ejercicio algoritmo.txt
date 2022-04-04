@@ -1,0 +1,7 @@
+¿Qué problemas de eficiencia tiene su algoritmo con número grandes?
+
+R: No hay como validar que la informacion sea correcta en el codigo solo nos abstenemos a la funcion.
+
+¿Cómo podría resolver el problema anterior?
+
+R: Implementando una calculadora en la visual para poder visualizar el resultado 
