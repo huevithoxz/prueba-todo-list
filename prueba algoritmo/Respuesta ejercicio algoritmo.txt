@@ -1,7 +1,7 @@
 ¿Qué problemas de eficiencia tiene su algoritmo con número grandes?
 
-R: No hay como validar que la informacion sea correcta en el codigo solo nos abstenemos a la funcion.
+R: Al ingresar numeros muy grandes la funcion de javascript retorna siempre true ya que javascript al trabajar de manera segura los representa de manera exponencial.
 
 ¿Cómo podría resolver el problema anterior?
 
-R: Implementando una calculadora en la visual para poder visualizar el resultado 
+R: Implementando una libreria capaz de manipular grandes cantidades de numeros.
